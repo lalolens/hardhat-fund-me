@@ -1,0 +1,24 @@
+# Hardhat Ignition default folder for deployments against a local node
+ignition/deployments/chain-31337
+
+.encryptedKey.json
+node_modules
+.env
+# solidity-coverage files
+coverage
+coverage.json
+
+# TypeChain files
+typechain
+typechain-types
+
+# vscode
+.vscode
+
+#Hardhat files
+cache
+artifacts
+.DS_Store
+gas-report.txt
+deployments
+
